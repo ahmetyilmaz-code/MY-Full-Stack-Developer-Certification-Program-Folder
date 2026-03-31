@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\bin\Debug\31 Mart 02.exe.config
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\bin\Debug\31 Mart 02.exe
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\bin\Debug\31 Mart 02.pdb
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\obj\Debug\31 Mart 02.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\obj\Debug\31 Mart 02.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\obj\Debug\31 Mart 02.exe
+C:\Users\lance\source\repos\31 Mart 02\31 Mart 02\obj\Debug\31 Mart 02.pdb
