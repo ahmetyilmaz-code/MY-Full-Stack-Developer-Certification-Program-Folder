@@ -1,4 +1,4 @@
-# Full-Stack-Developer-Certification-Program-Codes
+# MY-Full-Stack-Developer-Certification-Program-Folder
 This folder contains the exercises, applications, and codes that I make during the certification program.
 My Kodit Academy Full Stack Developer Certification Program Folder.
 
