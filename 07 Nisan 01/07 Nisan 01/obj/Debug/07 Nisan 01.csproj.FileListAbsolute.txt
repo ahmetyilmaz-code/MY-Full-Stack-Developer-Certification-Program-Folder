@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\bin\Debug\07 Nisan 01.exe.config
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\bin\Debug\07 Nisan 01.exe
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\bin\Debug\07 Nisan 01.pdb
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\obj\Debug\07 Nisan 01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\obj\Debug\07 Nisan 01.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\obj\Debug\07 Nisan 01.exe
+C:\Users\lance\source\repos\07 Nisan 01\07 Nisan 01\obj\Debug\07 Nisan 01.pdb
