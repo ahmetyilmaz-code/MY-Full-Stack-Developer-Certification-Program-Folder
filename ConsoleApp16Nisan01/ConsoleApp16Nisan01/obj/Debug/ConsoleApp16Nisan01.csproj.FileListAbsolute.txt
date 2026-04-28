@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\bin\Debug\ConsoleApp16Nisan01.exe.config
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\bin\Debug\ConsoleApp16Nisan01.exe
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\bin\Debug\ConsoleApp16Nisan01.pdb
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\obj\Debug\ConsoleApp16Nisan01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\obj\Debug\ConsoleApp16Nisan01.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\obj\Debug\ConsoleApp16Nisan01.exe
+C:\Users\lance\source\repos\ConsoleApp16Nisan01\ConsoleApp16Nisan01\obj\Debug\ConsoleApp16Nisan01.pdb
