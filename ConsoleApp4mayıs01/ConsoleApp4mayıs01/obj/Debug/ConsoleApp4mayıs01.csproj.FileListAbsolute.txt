@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\bin\Debug\ConsoleApp4mayıs01.exe.config
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\bin\Debug\ConsoleApp4mayıs01.exe
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\bin\Debug\ConsoleApp4mayıs01.pdb
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\obj\Debug\ConsoleApp4mayıs01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\obj\Debug\ConsoleApp4mayıs01.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\obj\Debug\ConsoleApp4mayıs01.exe
+C:\Users\lance\source\repos\ConsoleApp4mayıs01\ConsoleApp4mayıs01\obj\Debug\ConsoleApp4mayıs01.pdb
