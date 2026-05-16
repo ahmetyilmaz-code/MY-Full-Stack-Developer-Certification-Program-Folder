@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\bin\Debug\ConsoleApp13mayis01.exe.config
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\bin\Debug\ConsoleApp13mayis01.exe
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\bin\Debug\ConsoleApp13mayis01.pdb
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\obj\Debug\ConsoleApp13mayis01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\obj\Debug\ConsoleApp13mayis01.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\obj\Debug\ConsoleApp13mayis01.exe
+C:\Users\lance\source\repos\ConsoleApp13mayis01\ConsoleApp13mayis01\obj\Debug\ConsoleApp13mayis01.pdb
