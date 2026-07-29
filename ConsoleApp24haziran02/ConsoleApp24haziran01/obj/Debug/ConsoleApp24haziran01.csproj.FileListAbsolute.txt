@@ -1,0 +1,7 @@
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\bin\Debug\ConsoleApp24haziran01.exe.config
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\bin\Debug\ConsoleApp24haziran01.exe
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\bin\Debug\ConsoleApp24haziran01.pdb
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\obj\Debug\ConsoleApp24haziran01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\obj\Debug\ConsoleApp24haziran01.csproj.CoreCompileInputs.cache
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\obj\Debug\ConsoleApp24haziran01.exe
+C:\Users\lance\source\repos\ConsoleApp24haziran01\ConsoleApp24haziran01\obj\Debug\ConsoleApp24haziran01.pdb
