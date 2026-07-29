@@ -1,0 +1,2 @@
+C:\Users\lance\source\repos\ConsoleApp10haziran01\ConsoleApp10haziran01\obj\Debug\ConsoleApp10haziran01.csproj.AssemblyReference.cache
+C:\Users\lance\source\repos\ConsoleApp10haziran01\ConsoleApp10haziran01\obj\Debug\ConsoleApp10haziran01.csproj.CoreCompileInputs.cache
