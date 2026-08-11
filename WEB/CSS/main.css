@@ -1,0 +1,103 @@
+p{
+            color: red;
+            text-align: center;
+            font-weight: bold;
+            font-size: 30px;
+}
+.blackAndSmall{
+            color: black;
+            font-size: 10px;
+}
+#right{
+            text-align: right;
+}
+p.small{
+            font-size: 10px;
+}
+        h1.small{
+            font-size: 20px;
+}
+p.green i{
+            color: green;
+            
+}
+p.green sub.blue{
+            color: blue;
+}
+.bgRed{
+   background-color: rgb(255, 0, 0);
+
+}
+div p{    
+    color: white;
+    
+}
+.bgBlue{
+    background-color: rgb(0, 0, 255);
+}
+.bgGreen{
+    background-color: rgb(0, 255, 0);
+}
+.border{
+    /* border-style: solid;
+    border-width: 3px;
+    border-color: blue;*/
+    border: solid blue 3px;
+    border-radius: 30px;
+    /*text-align: center;*/
+
+    margin: 50px;
+    /*margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 40px 
+    ile alttaki aynı */
+    /*margin: 30px 20px 10px 40px;*/
+
+    margin: 10px; /* kendinden sonra gelecek elemanla arası*/
+   /* padding: 30px; /*div ile i arası boşluk*/ /*kendi içindeki elemanlar arası boşluk*/
+
+  /* padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 30px;
+   padding-right: 200px;*/
+   padding: 10px 200px 10px 30px;
+
+}
+.border i{
+    background-color: red;
+    display: block;
+}
+.listUl{
+    color: red;    
+    list-style-type: circle;
+    list-style-position: inside;
+}
+.listOl{
+    list-style-type: upper-roman;
+    border: 20px;
+    list-style-position: outside;
+}
+li{
+    border:1px solid black;
+}
+.tClass{
+    border: solid black px;
+    border-collapse: collapse;
+    width: 100%;
+   
+}
+.tClass td, .tClass th{
+    border: solid black 1px;
+    padding: 5px;
+    text-align: center;
+}
+.tClass th{
+    background-color: gray;
+}
+.tDiv{
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
